@@ -46,8 +46,8 @@ Output: [[1,2],[3,4]]
 
 **Language:** C++  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 15.1 MB (beats 55.05%)  
-**Submitted:** 2026-11-27T10:26:54.089Z  
+**Memory:** 14.8 MB (beats 96.33%)  
+**Submitted:** 2026-11-27T10:27:02.767Z  
 
 ```cpp
 class Solution {
